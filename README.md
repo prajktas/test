@@ -1,2 +1,2 @@
 # test
-test repository for demo
+test repository for demonstration
